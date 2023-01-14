@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 Hi, I'm Blaž. I live in Slovenia. I'm working hard to become full stack developer.<br><br>🔭 I’m currently learning JavaScript, more specifically DOM manipulation.<br>🌱 I was actually studying biology in college.<br>💬 Ask me about biology, chess, football, or life in general<br>⚡ Fun fact: In high school, I thought that programming was the hardest thing in the world... and here I am :)<br>
 
