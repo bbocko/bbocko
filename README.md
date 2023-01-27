@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Blaž
-I live in Slovenia. I'm working hard to become full stack developer.<br><br>🔭 I’m currently React fundamentals.<br>🌱 I was actually studying biology in college.<br>💬 Ask me about biology, chess, football, or life in general.<br>⚡ Fun fact: In high school, I thought that programming was the hardest thing in the world... and here I am :)<br>
+I live in Slovenia. I'm working hard to become full stack developer.<br><br>🔭 I’m currently learning React fundamentals.<br>🌱 I was actually studying biology in college.<br>💬 Ask me about biology, chess, football, or life in general.<br>⚡ Fun fact: In high school, I thought that programming was the hardest thing in the world... and here I am :)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blaz-bocko) 
