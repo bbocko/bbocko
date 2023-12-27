@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Blaž
 
-🔭 I’m currently learning React and Tailwind CSS and I'm working on Face Recognition App.<br>🌱 I was actually studying biology in college.<br>💬 Ask me about biology, chess, football, or life in general.<br>⚡ Fun fact: In high school, I thought that programming was the hardest thing in the world... and here I am :)
+🔭 I’m currently learning TypeScript and Angular.<br>🌱 I was actually studying biology in college.<br>💬 Ask me about biology, chess, football, or life in general.<br>⚡ Fun fact: In high school, I thought that programming was the hardest thing in the world... and here I am :)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blaz-bocko) 
