@@ -1,27 +1,56 @@
 # 👋 Hi, I'm Blaž
 
-🔭 I’m a self-taught developer passionate about web development. I started my journey last year, learning the fundamentals of HTML, CSS, and JavaScript. Since then, I've expanded my skills to include basics of React and Node.js, and I'm currently focused on mastering TypeScript and Angular.
+**QA Engineer | Test Automation | AI-Assisted Development**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blaz-bocko) 
+I'm a QA Engineer with 3 years of experience in manual and automated testing of web applications, primarily working with **Cypress, TypeScript, and REST APIs**.
 
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+My interests extend beyond traditional QA into software development, system integrations, and process automation. I enjoy understanding how systems work together, building practical tools, and finding ways to improve development and testing workflows.
 
-## 🚀 Achievements:
-- Self-taught developer with a focus on practical skills and real-world applications.
-- Solid understanding of web development principles, including front-end and back-end technologies.
+I'm also exploring **AI-assisted development**, using tools like Claude and OpenAI Codex to build software and solve technical challenges.
 
-## 🌱 Learning Goals:
-- Continuously improving my skills in TypeScript and Angular to build robust and scalable web applications.
-- Exploring new technologies and frameworks to stay updated with the ever-evolving tech landscape.
+## 🛠️ Tech Stack & Tools
 
-## 📫 Contact:
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/blaz-bocko) for collaboration or any inquiries.
+**Testing & Automation**
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Development & Integrations**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**AI-Assisted Development**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+## 🚀 What I've Worked On
+
+- **Test Automation:** Developing and maintaining end-to-end automated tests using Cypress and TypeScript.
+- **AI-Assisted QA Tool:** Independently designed and developed most of an internal application with the help of Claude. It supports importing test scenarios and preparing tasks for a local AI agent to assist with testing. The tool is currently in its early adoption phase.
+- **Web Development:** Built an Angular form for discount configuration in a production application.
+- **Process Automation:** Implemented an n8n workflow integrating internal APIs with Brevo for automated marketing processes.
+- **API Testing:** Testing REST APIs using Postman and collaborating with developers to identify and resolve issues.
+
+## 🌱 Currently Learning & Exploring
+
+- Software engineering and system architecture
+- Test automation and API integrations
+- AI-assisted development and agent-based workflows
+- Data quality, analytics, and process automation
+
+I'm currently pursuing a part-time **Computer Science degree** alongside full-time work.
+
+My background in biology and bioinformatics helped shape my analytical approach to problem-solving, which I continue to apply in software engineering.
+
+## 🎯 What's Next?
+
+My goal is to continue growing as an engineer who combines **software quality, development, automation, and analytical thinking** to build reliable systems and solve practical problems.
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/blaz-bocko)
