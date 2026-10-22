@@ -31,7 +31,7 @@ I'm also exploring **AI-assisted development**, using tools like Claude and Open
 ## 🚀 What I've Worked On
 
 - **Test Automation:** Developing and maintaining end-to-end automated tests using Cypress and TypeScript.
-- **AI-Assisted QA Tool:** Independently designed and developed most of an internal application with the help of Claude. It supports importing test scenarios and preparing tasks for a local AI agent to assist with testing. The tool is currently in its early adoption phase.
+- **AI-Assisted QA Tool:** Designed and guided the AI-assisted development of an internal QA application using Claude, collaborating with developers on architecture and Azure hosting. The application manages JSON-based test scenarios, supports manual testing, and integrates with a local Claude agent that executes scenarios and generates Playwright tests for successful runs.
 - **Web Development:** Built an Angular form for discount configuration in a production application.
 - **Process Automation:** Implemented an n8n workflow integrating internal APIs with Brevo for automated marketing processes.
 - **API Testing:** Testing REST APIs using Postman and collaborating with developers to identify and resolve issues.
